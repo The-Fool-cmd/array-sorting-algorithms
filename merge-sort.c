@@ -69,7 +69,7 @@ int main()
 {
     int arr[MAX_LEN], len, i;
  
-    printf("What's the length of the array? Maximum lenght is %d\n", MAX_LEN);
+    printf("What's the length of the array? Maximum length is %d\n", MAX_LEN);
     scanf("%d", &len);
  
     printf("Gimme the %d elements\n", len);
